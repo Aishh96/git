@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 c2 modified again
+conflict resolved
+=======
+c2
+>>>>>>> first
